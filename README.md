@@ -1,4 +1,4 @@
-# Prompt Lib
+# Prompt-lib
 
 > [!TIP]
 > 点击页面左上角的 **List Icon** ($\vdots \equiv$) 即可展开完整目录，快速跳转。
